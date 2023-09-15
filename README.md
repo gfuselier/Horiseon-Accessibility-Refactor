@@ -2,31 +2,18 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I was given the starter code for Horiseon's webpage and asked to refactor it to meet accessibility standards. The most important pieces of accomplishing this goal were changing the html to incldue only semantic elements and making sure all images and icons had alt-text. An accessible webpage is optimized for search engines because it provides a better user experience to people using assistive technologies.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Access my improved Horiseon wepage at [https://gfuselier.github.io/Horiseon-Accessibility-Refactor](https://gfuselier.github.io/Horiseon-Accessibility-Refactor) 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot of the Horiseon webpage](assets/images/screenshot.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+README Guide: [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
